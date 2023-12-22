@@ -120,7 +120,7 @@ a:hover {
 
 .menu-links.open {
     max-height: 300px;
-    border-radius: 2rem;
+    border-radius: 1rem;
     border: rgb(55, 55, 55) 0.1rem solid;
     border-color: rgb(165, 165, 165);
 }
@@ -354,33 +354,6 @@ article {
 
 article .icon {
     cursor: default;
-}
-
-/* PROJECTS SECTION */
-
-#projects {
-    position: relative;
-}
-
-.color-container {
-    border-color: rgb(165, 165, 165);
-    background: rgb(250, 250, 250);
-}
-
-.project-img {
-    border-radius: 2rem;
-    width: 90%;
-    height: 90%;
-}
-
-.project-title {
-    margin: 1rem;
-    color: black;
-}
-
-.project-btn {
-    color: black;
-    border-color: rgb(165, 165, 165);
 }
 
 /* CONTACT */
