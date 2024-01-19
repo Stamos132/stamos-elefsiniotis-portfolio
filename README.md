@@ -1,3 +1,3 @@
 Γεια σας!
 
-This is my private repository for my personal website portfolio.
+This is the repository for my personal website portfolio.
